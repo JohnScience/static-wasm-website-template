@@ -32,7 +32,7 @@ For more information, see `http-server --help`.
 ## Cloning
 
 ```console
-git clone 
+git clone https://github.com/JohnScience/static-wasm-website-template
 ```
 
 [`cargo make`]: https://crates.io/crates/cargo-make
