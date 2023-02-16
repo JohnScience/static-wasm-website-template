@@ -4,7 +4,7 @@ This is a template for a basic static website powered by Rust programming langua
 
 ## Pre-requisites
 
-- Rust toolchain.
+- [Rust toolchain].
 - [`cargo make`].
 - [`wasm-pack`].
 - [`http-server`] or any other web server of your choice.
@@ -38,3 +38,4 @@ git clone https://github.com/JohnScience/static-wasm-website-template
 [`cargo make`]: https://crates.io/crates/cargo-make
 [`wasm-pack`]: https://rustwasm.github.io/wasm-pack/installer/
 [`http-server`]: https://crates.io/crates/http-server
+[Rust toolchain]: https://www.rust-lang.org/tools/install
